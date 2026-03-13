@@ -1,0 +1,30 @@
+.contact-section{
+  padding:80px 0;
+  background:#f8f9fa;
+}
+
+.send-btn{
+  height:50px;
+  font-weight:600;
+  letter-spacing:1px;
+}
+
+.contact-box{
+  background:white;
+  padding:30px;
+  border-radius:6px;
+  box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.contact-item{
+  margin-top:20px;
+}
+
+textarea{
+  resize:none;
+}
+
+.map-section{
+  width:100%;
+  margin-top:40px;
+}

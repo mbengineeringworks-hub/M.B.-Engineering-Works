@@ -1,0 +1,69 @@
+.footer-section{
+  background: linear-gradient(90deg,#1a1a1a,#2a2a2a);
+  color:white;
+  padding:70px 0;
+}
+
+.footer-title{
+  font-size:16px;
+  font-weight:600;
+  margin-bottom:20px;
+}
+
+.footer-list{
+  list-style:none;
+  padding:0;
+}
+
+.footer-list li{
+  margin-bottom:10px;
+  font-size:14px;
+  color:#ccc;
+}
+
+.footer-list svg{
+  margin-right:8px;
+}
+
+.footer-hours{
+  list-style:none;
+  padding:0;
+  color:#ccc;
+}
+
+.footer-hours li{
+  margin-bottom:8px;
+}
+
+.subscribe-box{
+  display:flex;
+}
+
+.subscribe-box input{
+  flex:1;
+  padding:10px;
+  border:none;
+  background:#333;
+  color:white;
+}
+
+.subscribe-box button{
+  background:#0d6efd;   /* blue instead of yellow */
+  border:none;
+  padding:10px 15px;
+  color:white;
+  font-size:18px;
+}
+
+.social-icons{
+  display:flex;
+  gap:20px;
+  font-size:18px;
+  color:#ccc;
+}
+
+.social-icons svg:hover{
+  color:#0d6efd;
+  cursor:pointer;
+}
+
