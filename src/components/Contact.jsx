@@ -46,7 +46,7 @@ export default function Contact() {
     }
 
     emailjs
-      .sendForm("SERVICE_ID", "TEMPLATE_ID", form.current, "PUBLIC_KEY")
+      .sendForm("service_1zb20fu", "template_n89rnxk", form.current, "6gW5aFFbQY6WpcFfi")
       .then(() => {
         setStatus("success");
         form.current.reset();
